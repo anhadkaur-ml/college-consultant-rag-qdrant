@@ -1,7 +1,5 @@
 # College Consultant - Qdrant PDF Knowledge Base
 
-This is a new project. It does not modify the earlier SQLite project.
-
 ## Project structure
 
 ```text
